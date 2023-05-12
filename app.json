@@ -1,0 +1,12 @@
+{
+  "name": "anonymous-chat",
+  "description": "Anonymous Chat Bot WhatsApp",
+  "repository": "https://github.com/ariffb/anonymous-chat",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot",
+    "anonymous-chat"
+  ]
+}
